@@ -1,25 +1,25 @@
 ## 📒✔️✍ 2nd June 2022 
 
 ### 🦸‍♀️ What is DONE 
-[X] 🚶‍♀️ 10K steps done 
-[X] 🚶‍♀️ 30 mins walk in morning done
-[X] Read few pages from book in the morning
-[x] Set up the repo for JSLovers, personal website
-[X] Worked on the FF project
+- [X] 🚶‍♀️ 10K steps done 
+- [X] 🚶‍♀️ 30 mins walk in morning done
+- [X] Read few pages from book in the morning
+- [x] Set up the repo for JSLovers, personal website
+- [X] Worked on the FF project
 
 ### WIP
-[] React Day slides
+- [] React Day slides
 
 ### What is LEFT?
-[] NodeJS YT videos
-[] NodeJS Slides
+- [] NodeJS YT videos
+- [] NodeJS Slides
 
 ### What's next?
-[] React Day slides
-[] NodeJS YT videos
-[] React side project
-[] design Personal website wireframes
-[] setup call with the folks intersted in JSLovers community work
+- [] React Day slides
+- [] NodeJS YT videos
+- [] React side project
+- [] design Personal website wireframes
+- [] setup call with the folks intersted in JSLovers community work
 
 --- 
 
