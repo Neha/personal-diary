@@ -1,15 +1,16 @@
 ## DATE
 
 ### What is DONE 
-[X] 
+- [X] 
 
 ### WIP
-[]
+- [ ]
 
 ### What is LEFT
-
+- [ ]
 
 ### What's next?
+- [ ]
 
 --- 
 
